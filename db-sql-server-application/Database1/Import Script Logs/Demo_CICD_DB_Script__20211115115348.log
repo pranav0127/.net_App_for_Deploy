@@ -1,0 +1,13 @@
+15-11-2021 17:23:48	This log contains information about the import operation of the script 'Demo_CICD_DB_Script_Generate.sql' into project 'Database1' on computer 'DESKTOP-N2MSQ1H' by user'PRANAV GUPTA.
+15-11-2021 17:23:48	Started importing file: E:\GIIT Solution\.net application\db-sql-server-application\Demo_CICD_DB_Script_Generate.sql 
+15-11-2021 17:23:48	File name E:\GIIT Solution\.net application\db-sql-server-application\Demo_CICD_DB_Script_Generate.sql (size: 1766)
+15-11-2021 17:23:48	Parsing import script
+15-11-2021 17:23:48	Total number of batches in script: 19
+15-11-2021 17:23:48	Total number of statements in script: 4
+15-11-2021 17:23:48	The script was successfully imported into the project.
+15-11-2021 17:23:48	Analyzing schema objects...
+15-11-2021 17:23:48	Scanning project for duplicate elements
+15-11-2021 17:23:48	Finished duplicate element processing
+15-11-2021 17:23:49	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+15-11-2021 17:23:49	A summary of the import was saved to the following location: E:\GIIT Solution\.net application\db-sql-server-application\Database1\Import Script Logs\Demo_CICD_DB_Script__20211115115348.log
+15-11-2021 17:23:49	Click Finish to continue...

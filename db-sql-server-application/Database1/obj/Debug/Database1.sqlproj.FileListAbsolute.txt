@@ -1,0 +1,6 @@
+E:\GIIT Solution\.net application\db-sql-server-application\Database1\bin\Debug\Database1.dacpac
+E:\GIIT Solution\.net application\db-sql-server-application\Database1\bin\Debug\Database1.dll
+E:\GIIT Solution\.net application\db-sql-server-application\Database1\bin\Debug\Database1.pdb
+E:\GIIT Solution\.net application\db-sql-server-application\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+E:\GIIT Solution\.net application\db-sql-server-application\Database1\obj\Debug\Database1.dll
+E:\GIIT Solution\.net application\db-sql-server-application\Database1\obj\Debug\Database1.pdb
